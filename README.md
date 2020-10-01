@@ -5,3 +5,4 @@
 4. Your interests
 5. Your Goal
 6. Your achievements
+7. Your hobbies  
